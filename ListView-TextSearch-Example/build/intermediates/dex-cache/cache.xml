@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kumars28\.android\build-cache\71aea06ecea47f3081c45f76add3167b21e4cddc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\kumars28\AndroidStudioProjects\PayU-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c5e20c84a9c28913d24d37ba3dc4a2089f1580b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kumars28\.android\build-cache\980259ba8207fb3a0c6c4b48d93910720f9ef241\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\kumars28\AndroidStudioProjects\PayU-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_464446d77d8c0abb0e8d1d5b3069ce3ec59da1e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kumars28\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\kumars28\AndroidStudioProjects\PayU-Test\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_a2d68e183e9ff40c5191c00dc90571d19703cdfc\classes.dex" />
+    </item>
+
+</items>
